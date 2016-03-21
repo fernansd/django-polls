@@ -4,6 +4,9 @@ myenv/
 # database file
 db.sqlite3
 
+# python compiled files
+*.pyc
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
